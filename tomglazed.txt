@@ -1,0 +1,21 @@
+git clone
+Creates a copy of the repository chosen on your local machine
+
+git add
+brings a file into staging from the state of being untracked
+
+git commit
+makes all changes e.g. deletions and modifications currently in the 
+staging state
+
+git push
+pushes local change to your remote repository
+
+git pull
+pulls changes from the remote repository
+
+remote directory
+Your directory hosted on your git account or other remote server
+
+local directory
+the local version of a remote server stored on your machine
